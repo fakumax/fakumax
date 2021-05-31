@@ -22,9 +22,8 @@ I am passionate about programming, always looking for new challenges 🌐. I lov
 </p>
 
 
-</br>
+
 ## 🛠️ Languages and Tools:
-</br>
 
 
 |   |   |   |   |   |   |
@@ -33,7 +32,7 @@ I am passionate about programming, always looking for new challenges 🌐. I lov
 | <img src="https://user-images.githubusercontent.com/69209369/116448711-ccedd500-a82f-11eb-8a08-b53db08f6156.png" width="60" alt="REACT">  |  <img src="https://user-images.githubusercontent.com/69209369/116448756-d9722d80-a82f-11eb-966c-a9f9f8cf41e8.png" width="60" alt="REDUX">   | <img src="https://user-images.githubusercontent.com/69209369/116448969-0e7e8000-a830-11eb-9246-fd0ed6226151.png" width="70" alt="NODE">  | <img src="https://user-images.githubusercontent.com/69209369/116449049-22c27d00-a830-11eb-86f8-649703272c4f.png" width="65" alt="EXPRESS">  | <img src="https://user-images.githubusercontent.com/69209369/116448947-06bedb80-a830-11eb-8d96-e34affa3ad6c.png" width="60" alt="POSTGRESQL">  |  <img src="https://sequelize.org/master/manual/asset/logo-small.png" width="60" alt="SEQUELIZE"> |
 |   |   |   |   |   |   |   |
 
-</br>
+
 ## 📊 Github Stats
 
 ![fakumax github stats](https://github-readme-stats.vercel.app/api?username=fakumax&-show_icons=true&theme=radical)
