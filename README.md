@@ -14,15 +14,14 @@ I am passionate about programming, always looking for new challenges 🌐. I lov
 
 <p align="left">
   
- <a href="https://github.com/fakumax/videogames_app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fakumax&repo=Pokemon_App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Pokemon App"></a>
-  
- <a href="https://github.com/fakumax/videogames_app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fakumax&repo=Videogames_App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Videogames App"></a>
-  
- <a href="https://github.com/fakumax/videogames_app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fakumax&repo=Dogs_App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Dogs App"></a>
- 
- <a href="https://github.com/fakumax/videogames_app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fakumax&repo=Boilerplate_TypeScript&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Boilerplate TypeScript"></a>
+<a href="https://github.com/fakumax/pokemon_app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fakumax&repo=Pokemon_App&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Pokemon App"></a>
+  <a href="https://github.com/fakumax/Pizza-React-NodeJs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fakumax&repo=Pizza-React-NodeJs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Pizza React Node"></a>
+  <a href="https://github.com/fakumax/videogames_app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=fakumax&repo=Videogames_App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Videogames App"></a>
+<a href="https://github.com/fakumax/Dogs_App"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fakumax&repo=Dogs_App&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Dogs App"></a>
+  <a href="https://github.com/fakumax/Foods_App"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fakumax&repo=Foods_App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Foods App"></a>
+  <a href="https://github.com/fakumax/Boilerplate_TypeScript"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=fakumax&repo=Boilerplate_TypeScript&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Boilerplate TypeScript"></a>  
 </p>
-
+  
 
 
 ## 🛠️ Languages and Tools:
