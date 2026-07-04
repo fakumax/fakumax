@@ -50,7 +50,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://pizzeria-app-lac.vercel.app/">
-        <img src="https://www.fakumax.dev/projects/pizzeria-app.jpg" alt="PizzaMago" width="100%" />
+        <img src="https://www.fakumax.dev/projects/pizzeria-app.jpg" alt="PizzaMago" height="150" style="object-fit:cover;border-radius:6px;" />
       </a>
       <h3>🍕 PizzaMago</h3>
       <p>Modern pizzeria menu with a cart experience and a step-by-step custom pizza builder.</p>
@@ -62,7 +62,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://calend-app-iota.vercel.app/">
-        <img src="https://www.fakumax.dev/projects/calend-app.jpg" alt="CalendApp" width="100%" />
+        <img src="https://www.fakumax.dev/projects/calend-app.jpg" alt="CalendApp" height="150" style="object-fit:cover;border-radius:6px;" />
       </a>
       <h3>📅 CalendApp</h3>
       <p>Calendly-style scheduling: share your link and guests pick a free slot — no back-and-forth.</p>
@@ -75,7 +75,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://hotel-flow-app-hazel.vercel.app/">
-        <img src="https://www.fakumax.dev/projects/hotelflow-app.jpg" alt="HotelFlow" width="100%" />
+        <img src="https://www.fakumax.dev/projects/hotelflow-app.jpg" alt="HotelFlow" height="150" style="object-fit:cover;border-radius:6px;" />
       </a>
       <h3>🏨 HotelFlow</h3>
       <p>Resort booking app: search, filter and reserve rooms, plus an admin panel.</p>
@@ -87,7 +87,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://menu-app-ruddy.vercel.app/">
-        <img src="https://www.fakumax.dev/projects/menu-app.jpg" alt="Menu App" width="100%" />
+        <img src="https://www.fakumax.dev/projects/menu-app.jpg" alt="Menu App" height="150" style="object-fit:cover;border-radius:6px;" />
       </a>
       <h3>📱 Menu App</h3>
       <p>Mobile-first digital menu — customers build their order and send it to the venue via WhatsApp.</p>
@@ -101,7 +101,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://bosque-encantado-tau.vercel.app/">
-        <img src="https://www.fakumax.dev/projects/bosque-encantado.jpg" alt="Bosque Encantado" width="100%" />
+        <img src="https://www.fakumax.dev/projects/bosque-encantado.jpg" alt="Bosque Encantado" height="150" style="object-fit:cover;border-radius:6px;" />
       </a>
       <h3>🌲 Bosque Encantado</h3>
       <p>Interactive digital invitation as an animated storybook: countdown, dress code, gifts and RSVP.</p>
@@ -113,7 +113,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://pokemon-app-fakumax.vercel.app/">
-        <img src="https://www.fakumax.dev/projects/pokemon-app.jpg" alt="Pokemon App" width="100%" />
+        <img src="https://www.fakumax.dev/projects/pokemon-app.jpg" alt="Pokemon App" height="150" style="object-fit:cover;border-radius:6px;" />
       </a>
       <h3>🔴 Pokémon App</h3>
       <p>Full-stack app to create, search and explore Pokémon using the PokéAPI.</p>
@@ -127,19 +127,6 @@
 </table>
 
 <p align="center"><sub>More projects — Ecommerce, PsiDuelo, Videogames App, Defender la Vida — on <a href="https://www.fakumax.dev/#projects">fakumax.dev</a>.</sub></p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fakumax&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakumax&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fakumax&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
 
 ---
 
