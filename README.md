@@ -52,7 +52,7 @@
       <a href="https://pizzeria-app-lac.vercel.app/">
         <img src="https://www.fakumax.dev/projects/pizzeria-app.jpg" alt="PizzaMago" height="150" style="object-fit:cover;border-radius:6px;" />
       </a>
-      <h3>🍕 PizzaMago</h3>
+      <h3>PizzaMago</h3>
       <p>Modern pizzeria menu with a cart experience and a step-by-step custom pizza builder.</p>
       <p><sub><b>React · Next.js · Tailwind CSS</b></sub></p>
       <p>
@@ -64,7 +64,7 @@
       <a href="https://calend-app-iota.vercel.app/">
         <img src="https://www.fakumax.dev/projects/calend-app.jpg" alt="CalendApp" height="150" style="object-fit:cover;border-radius:6px;" />
       </a>
-      <h3>📅 CalendApp</h3>
+      <h3>CalendApp</h3>
       <p>Calendly-style scheduling: share your link and guests pick a free slot — no back-and-forth.</p>
       <p><sub><b>Next.js · Prisma · Tailwind · TypeScript</b></sub></p>
       <p>
@@ -77,7 +77,7 @@
       <a href="https://hotel-flow-app-hazel.vercel.app/">
         <img src="https://www.fakumax.dev/projects/hotelflow-app.jpg" alt="HotelFlow" height="150" style="object-fit:cover;border-radius:6px;" />
       </a>
-      <h3>🏨 HotelFlow</h3>
+      <h3>HotelFlow</h3>
       <p>Resort booking app: search, filter and reserve rooms, plus an admin panel.</p>
       <p><sub><b>React · Next.js · Tailwind CSS</b></sub></p>
       <p>
@@ -89,7 +89,7 @@
       <a href="https://menu-app-ruddy.vercel.app/">
         <img src="https://www.fakumax.dev/projects/menu-app.jpg" alt="Menu App" height="150" style="object-fit:cover;border-radius:6px;" />
       </a>
-      <h3>📱 Menu App</h3>
+      <h3>Menu App</h3>
       <p>Mobile-first digital menu — customers build their order and send it to the venue via WhatsApp.</p>
       <p><sub><b>React · Vite · TypeScript · WhatsApp API</b></sub></p>
       <p>
@@ -103,7 +103,7 @@
       <a href="https://bosque-encantado-tau.vercel.app/">
         <img src="https://www.fakumax.dev/projects/bosque-encantado.jpg" alt="Bosque Encantado" height="150" style="object-fit:cover;border-radius:6px;" />
       </a>
-      <h3>🌲 Bosque Encantado</h3>
+      <h3>Bosque Encantado</h3>
       <p>Interactive digital invitation as an animated storybook: countdown, dress code, gifts and RSVP.</p>
       <p><sub><b>React · Vite · SCSS · Tailwind</b></sub></p>
       <p>
@@ -115,7 +115,7 @@
       <a href="https://pokemon-app-fakumax.vercel.app/">
         <img src="https://www.fakumax.dev/projects/pokemon-app.jpg" alt="Pokemon App" height="150" style="object-fit:cover;border-radius:6px;" />
       </a>
-      <h3>🔴 Pokémon App</h3>
+      <h3>Pokémon App</h3>
       <p>Full-stack app to create, search and explore Pokémon using the PokéAPI.</p>
       <p><sub><b>React · React Query · Fastify · Prisma</b></sub></p>
       <p>
